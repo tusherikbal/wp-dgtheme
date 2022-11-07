@@ -1,0 +1,32 @@
+/*
+Theme Name: Digital Agency theme
+Theme URI: https://wordpress.org/tusherikbal/
+Author: Dev To Digital
+Author URI: https://devtodigital.com/
+Description: This is a best theme for digital agency. a stylist and all device responsive theme. 
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: dgtheme
+
+*/
+
+.header-area .main-nav .nav li:last-child {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+input#form-submit:hover {
+    background-color: #fa65b1 !important;
+}
+.post-categories li a {
+    color: #fff;
+}
+
+.single_article{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
